@@ -11,9 +11,9 @@
 
   > Team ID: T18
 
-  > Member-1: Shanthi Alluri, 241CS206, alurishanthi.241cs206@nitk.edu.in
+  > Member-1: Alluri Shanthi , 241CS206, alurishanthi.241cs206@nitk.edu.in
 
-  > Member-2: Deekshitha Gowda, 241CS224, deekshithaum.241cs224@nitk.edu.in
+  > Member-2: Deekshitha U M, 241CS224, deekshithaum.241cs224@nitk.edu.in
 
   > Member-3: Somyak Priyadarshi Mohanta, 241CS257, somyakpriyadarshimohanta.241cs257@nitk.edu.in
 </details>
